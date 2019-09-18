@@ -1,0 +1,25 @@
+Item1,Item2,Item3
+HP,Racket,Watch
+HP,Camera,Watch
+Camera,Watch,Mouse
+Camera,Bag,
+Camera,Watch,
+Camera,Watch,Music Pad
+Camera,Racket,Guitar
+Camera,Watch,
+Guitar,Camera,Music Pad
+Guitar,Camera,Watch
+Guitar,Watch,
+HP,Watch,Music Pad
+HP,Camera,Watch
+Mouse,Camera,Soap
+Music Pad,Guitar,Camera
+Music Pad,Soap,Watch
+Racket,Soap,Guitar
+Racket,Camera,Guitar
+Router,Bag,
+Soap,Bag,Guitar
+Watch,Camera,Music Pad
+Watch,Racket,Camera
+Watch,Camera,Music Pad
+Watch,Racket,Soap
