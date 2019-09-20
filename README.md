@@ -21,6 +21,8 @@ Pada repositori ini, akan dibahas algoritma untuk market basket analysis, recomm
 4. [Hybrid Filtering](https://github.com/hmaghfira/Recommender-System/blob/master/Code/Hybrid%20Filtering%20-%20Hania%20Maghfira.ipynb)
 5. [A/B Testing](https://github.com/hmaghfira/Recommender-System/blob/master/Code/AB%20Testing%20-%20Website%20UI%20Design%20-%20Hania%20Maghfira.ipynb)
 
+Catatan: penjelasan untuk setiap algoritma sudah dijabarkan pada file algoritma masing-masing.
+
 ## Author
 Hania Maghfira, Astra Data Scientist Bootcamp 2019.<br>
 if.hania@outlook.com
